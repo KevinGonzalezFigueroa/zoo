@@ -1,6 +1,6 @@
 package com.practica2.zoo;
 
-public class Reptil extends Animal{
+public class Reptil extends Animal {
     //Variables
     private Double temperaturaCorporal;
     private String colorEscama;

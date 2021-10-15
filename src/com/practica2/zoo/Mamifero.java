@@ -1,6 +1,6 @@
 package com.practica2.zoo;
 
-public class Mamifero extends Animal{
+public class Mamifero extends Animal {
     //Variables
     private Double peso;
     private String habitos;
